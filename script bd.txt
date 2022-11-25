@@ -1,0 +1,31 @@
+create database PostulacionBF
+
+create table Productos(
+idProducto int not null identity(1,1) primary key,
+Nombre varchar(50),
+Descripcion varchar(100),
+Stock int,
+IdMedida int,
+PrecioIngreso decimal(18,2),
+PrecioVenta decimal(18,2),
+FechaIngreso datetime,
+FechaActualizacion datetime
+)
+
+select * from DetalleVenta
+create table Venta(
+idVenta int not null identity(1,1)primary key,
+FechaVenta datetime,
+Cliente varchar(100),
+Estado int,
+FechaAnulacion datetime
+)
+
+create table DetalleVenta(
+idDetalleVenta int not null identity(1,1)primary key,
+Descripcion varchar(200),
+Cantidad int,
+Precio decimal(18,2),
+Fecha datetime,
+idProducto int,
+idVenta int)

@@ -1,0 +1,146 @@
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\appsettings.Development.json
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\appsettings.json
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.exe
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.deps.json
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.runtimeconfig.json
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.runtimeconfig.dev.json
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\ref\apiProducto.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.pdb
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\AutoMapper.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\FluentValidation.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Humanizer.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\MediatR.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.csprojAssemblyReference.cache
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.AssemblyInfoInputs.cache
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.AssemblyInfo.cs
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.csproj.CoreCompileInputs.cache
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.MvcApplicationPartsAssemblyInfo.cs
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.MvcApplicationPartsAssemblyInfo.cache
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\staticwebassets\apiProducto.StaticWebAssets.Manifest.cache
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\staticwebassets\apiProducto.StaticWebAssets.xml
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\scopedcss\bundle\apiProducto.styles.css
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.RazorTargetAssemblyInfo.cache
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.csproj.CopyComplete
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\ref\apiProducto.dll
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.pdb
+D:\Dony\PostulacionFassil\PostMicroservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.genruntimeconfig.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\appsettings.json
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.StaticWebAssets.xml
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.exe
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.deps.json
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.runtimeconfig.json
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.runtimeconfig.dev.json
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\apiProducto.pdb
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\MediatR.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.csproj.AssemblyReference.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.AssemblyInfoInputs.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.AssemblyInfo.cs
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.csproj.CoreCompileInputs.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\scopedcss\bundle\apiProducto.styles.css
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\staticwebassets\apiProducto.StaticWebAssets.Manifest.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.RazorTargetAssemblyInfo.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.csproj.CopyComplete
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\refint\apiProducto.dll
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.pdb
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\apiProducto.genruntimeconfig.cache
+C:\Users\Marco A\Desktop\Microservicios\Microservicios\apiProducto\obj\Debug\net5.0\ref\apiProducto.dll
